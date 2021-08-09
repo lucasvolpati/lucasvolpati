@@ -20,37 +20,39 @@
 
 <div style="display: inline-block">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-volpati&show_icons=true&theme=dark">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&layout=compact&theme=dark">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&layout=compact&theme=dark">
 
 </div>
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="Lucas-volpati PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="60" width="60">
+  <img align="center" alt="Lucas-volpati PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" >
  
-  <img align="center" alt="Lucas-volpati-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60">
+  <img align="center" alt="Lucas-volpati-MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30">
 
-  <img align="center" alt="Lucas-volpati-HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Lucas-volpati-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30">
 
-  <img align="center" alt="Lucas-volpati-CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Lucas-volpati-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30">
 
 </div>
 
 
 <h3>Frameworks:</h3>
-  <img align="center" alt="Lucas-volpati-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Lucas-volpati-bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
 <h3>Pincipais Ferramentas:</h3>
 
 <div style="disply: inline-block">
-<img align="center" alt="Lucas-volpati-VsCode" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
+<img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+<img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
 <h3>Sistemas Operacionais:</h3>
 
 <div style="disply: inline-block">
-<img align="center" alt="Lucas-volpati-windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-<img align="center" alt="Lucas-volpati-linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 </div>
 
