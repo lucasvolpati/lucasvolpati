@@ -32,13 +32,17 @@
   <img align="center" alt="Lucas-volpati-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30">
 
   <img align="center" alt="Lucas-volpati-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30">
+    
+  <img align="center" alt="Lucas-volpati-CSS3" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30">
 
 </div>
 
 
 <h3>Frameworks:</h3>
+<div style="display: inline-block">
   <img align="center" alt="Lucas-volpati-bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
+  <img align="center" alt="Laravel" height="30" src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</div>
 
 <h3>Pincipais Ferramentas:</h3>
 
