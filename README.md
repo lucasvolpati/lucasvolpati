@@ -33,7 +33,7 @@
 
   <img align="center" alt="Lucas-volpati-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30">
     
-  <img align="center" alt="Lucas-volpati-CSS3" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30">
+  <img align="center" alt="Lucas-volpati-CSS3" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30">
 
 </div>
 
