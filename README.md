@@ -3,7 +3,7 @@
 
 <h2>Olá, seja muito bem vindo ao meu perfil !</h2>
 
-<p>Iniciante em desenvolvimento WEB, atualmente estudando e buscando desenvolver um sólido conhecimento nas tecnologias (PHP 8, MySQL, HTML 5 e CSS 3), compartilharei aqui um pouco do que venho desenvolvendo.</p>
+<p>Iniciante em desenvolvimento WEB, atualmente estudando e buscando desenvolver um sólido conhecimento nas tecnologias (PHP 8, MySQL, HTML 5, CSS 3 e JavaScript), compartilharei aqui um pouco do que venho desenvolvendo.</p>
 
 
 <h3>Redes Sociais:</h3>
