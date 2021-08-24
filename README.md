@@ -7,12 +7,14 @@
 
 
 <h3>Redes Sociais:</h3>
-<div>
+<div style="display: inline-block">
+<a href="https://api.whatsapp.com/send?phone=5511942566798">
+    <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30">
 <a href="https://www.facebook.com/lucas.alcantararodrigues/">
-    <img align="center" alt="Lucas-volpati-facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" width="30">
+    <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">
 </a> 
 <a href="linkedin.com/in/lucas-alcântara-rodrigues-volpati-1201499a">
-    <img align="center" alt="Lucas-volpati-facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30">
+    <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
 </a>
 </div>
 <br>
@@ -24,7 +26,8 @@
 
 </div>
 
-<div style="display: inline-block"><br>
+<h3>Tecnologias:</h3>
+<div style="display: inline-block">
   <img align="center" alt="Lucas-volpati PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" >
  
   <img align="center" alt="Lucas-volpati-MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30">
