@@ -21,8 +21,8 @@
 
 
 <div style="display: inline-block">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-volpati&show_icons=true&theme=dark">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&layout=compact&theme=dark">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-volpati&show_icons=true&theme=dar">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&layout=compact&theme=dar">
 
 </div>
 
