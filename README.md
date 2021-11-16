@@ -41,10 +41,10 @@
 </div>
 
 
-<h3>Frameworks:</h3>
+<h3>Frameworks e Bibliotecas:</h3>
 <div style="display: inline-block">
-  <img align="center" alt="Lucas-volpati-bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Laravel" height="30" src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="Lucas-volpati-bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 <h3>Pincipais Ferramentas:</h3>
