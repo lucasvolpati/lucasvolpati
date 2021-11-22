@@ -21,8 +21,8 @@
 
 
 <div style="display: inline-block">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-volpati&show_icons=true&theme=dar">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&layout=compact&theme=dar">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-volpati&show_icons=true&theme=dar">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&layout=compact&theme=dar">
 
 </div>
 
@@ -45,6 +45,8 @@
 <div style="display: inline-block">
   <img align="center" alt="Laravel" height="30" src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Lucas-volpati-bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Lucas-volpati-JQUERY" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="30">
+  <img align="center" alt="Lucas-volpati-SASS" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30">
 </div>
 
 <h3>Pincipais Ferramentas:</h3>
@@ -52,7 +54,11 @@
 <div style="disply: inline-block">
 <img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+<img height="30" src="https://img.shields.io/badge/phpstorm-000?style=for-the-badge&logo=phpstorm&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white">
 
 </div>
 <h3>Sistemas Operacionais:</h3>
