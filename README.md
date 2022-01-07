@@ -31,6 +31,8 @@
   <img align="center" alt="Lucas-volpati PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" >
  
   <img align="center" alt="Lucas-volpati-MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30">
+    
+  <img align="center" alt="Lucas-volpati-MySQL" src="https://img.shields.io/badge/Maria_DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30">
 
   <img align="center" alt="Lucas-volpati-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30">
 
