@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/lucas.alcantararodrigues/">
     <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">
 </a> 
-<a href="linkedin.com/in/lucas-alcântara-rodrigues-volpati-1201499a">
+<a href="https://www.linkedin.com/in/lucas-alcantara-rodrigues-volpati-1201499a/">
     <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
 </a>
 </div>
