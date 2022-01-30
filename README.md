@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
-<h2>Olá, seja muito bem vindo ao meu perfil !</h2>
+<h2>Olá, seja muito bem vindo!</h2>
 
-<p>Desenvolvedor WEB FullStack em formação.</p>
+<p>Desenvolvedor WEB FullStack com PHP.</p>
 
 
 <h3>Redes Sociais:</h3>
