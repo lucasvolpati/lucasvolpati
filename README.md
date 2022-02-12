@@ -60,7 +60,7 @@
 <img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white">
 
 </div>
 <h3>Sistemas Operacionais:</h3>
