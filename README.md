@@ -29,11 +29,11 @@
 
 </div>
 
-<h3>Technologies</h3>
+<h3>Languages</h3>
 <div style="display: inline-block">
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
@@ -43,7 +43,7 @@
 <br>
 
 
-<h3>Frameworks and Libraries</h3>
+<h3>Frameworks / Libraries</h3>
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="50" />
@@ -53,9 +53,10 @@
 </div>
 <br>
 
-<h3>Best Tools</h3>
+<h3>Tools</h3>
 
 <div style="disply: inline-block">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50"/>
@@ -64,7 +65,7 @@
 </div>
 <br>
     
-<h3>Operational Sistems</h3>
+<h3>Operating Systems</h3>
 
 <div style="disply: inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
