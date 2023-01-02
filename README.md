@@ -1,80 +1,25 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+# 💫 About Me:
+Hello world,<br>I'm a FullStack PHP Developer
 
 
-<h2>Hello world!</h2>
+## 🌐 Socials:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5511942566798) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lucas.alcantararodrigues/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucas_alcantarardg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-volpati/) 
 
-<p>FullStack PHP Developer</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lucas-volpati&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-volpati&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lucas-volpati&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3>Social</h3>
-
-<div>
-<a href="https://api.whatsapp.com/send?phone=5511942566798">
-    <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30">
-</a>
-<a href="https://www.facebook.com/lucas.alcantararodrigues/">
-    <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">
-</a> 
-    
-<a href="https://www.linkedin.com/in/lucas-alcantara-rodrigues-volpati-1201499a/">
-    <img align="center" alt="Lucas-volpati-facebook" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
-</a>
-</div>
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<div style="display: inline-block">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-volpati&show_icons=true&theme=dar">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-volpati&layout=compact&theme=light">
+---
+[![](https://visitcount.itsvg.in/api?id=Lucas-volpati&icon=3&color=1)](https://visitcount.itsvg.in)
 
-</div>
-
-<h3>Languages</h3>
-<div style="display: inline-block">
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  
-
-</div>
-<br>
-
-
-<h3>Frameworks / Libraries</h3>
-
-<div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50px"/>
-</div>
-<br>
-
-<h3>Tools</h3>
-
-<div style="disply: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50"/>
-</div>
-<br>
-    
-<h3>Operating Systems</h3>
-
-<div style="disply: inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50"/>
-</div>
-<br>
-
-<!---
-Lucas-volpati/Lucas-volpati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
